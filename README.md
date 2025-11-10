@@ -41,7 +41,7 @@ END AS Age_Category
 
 ## 📸 **SQL Queries**
 
-![Check_SQL Query File]()
+![Check_SQL Query File](https://github.com/palakpatel315/Day_8_String-Functions_UPPER-LOWER-LENGTH-CONCAT-SUBSTRING-/tree/main/Day_8_SQL_Queries)
 
 ---
 Thank you [Indian Data Club](https://www.linkedin.com/company/indian-data-club/posts/?feedView=all) for starting this challenge and [DPDzero](https://www.linkedin.com/company/dpdzero/) the title sponsor of this challenge
